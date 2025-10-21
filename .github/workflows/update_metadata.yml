@@ -1,0 +1,70 @@
+name: Update Metadata
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/**/*.json'
+  workflow_dispatch:
+
+jobs:
+  update-metadata:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Validate Json files
+        run: |
+          echo "Validating Json files..."
+          find data -name "*.json" -type f | while read file; do
+            echo "  Verification of $file"
+            if ! python3 -m json.tool "$file" > /dev/null 2>&1; then
+              echo "Invalid Json: $file"
+              exit 1
+            fi
+          done
+          echo "All Json files are valid"
+
+      - name: Update metadata hashes
+        run: |
+          python3 scripts/update_metadata.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet metadata.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes in metadata.json"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "metadata.json updated"
+            echo "Changes detected:"
+            git diff metadata.json
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "github-actions@github.com"
+          git add metadata.json
+          git commit -m "Update metadata"
+          git push --force origin HEAD:bot/update-metadata
+
+      - name: Create Pull Request
+        if: steps.check_changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: bot/update-metadata
+          base: main
+          title: "Update metadata"
+          body: "This pull request updates the last_updated and the SHA-256 hashes in metadata.json."
+          labels: bot

@@ -1,0 +1,21 @@
+# Siroz
+developer/
+docs/
+.venv/
+log/
+test/
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# eclipse
+*.launch
+
+# vscode
+.settings/
+.vscode/
+.classpath
+.project
