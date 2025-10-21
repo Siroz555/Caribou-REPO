@@ -1,10 +1,14 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-10-21T09:36:37.814897+00:00Z",
+  "last_updated": "2025-10-21T09:56:21.044889+00:00Z",
   "files": {
     "data/items_mapping.json": {
       "hash": "22bdcbd06371dcaffbd87db0d20941492e567a0f11dd2627d0f69db4122f29bc",
       "size": 13329
+    },
+    "data/reforges.json": {
+      "hash": "f6bc582088aa3281cee2ce6074482250644844dd3f732bba2aa11a518c2105cd",
+      "size": 5179
     },
     "data/attributes.json": {
       "hash": "0471934272e8f813c579cb1cbc5338d70a4b8218a0d0ab0bf2017101282f2846",
