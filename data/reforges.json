@@ -1,0 +1,302 @@
+[
+  {
+    "name": "dirty",
+    "skyBlockApiId": "DIRT_BOTTLE"
+  },
+  {
+    "name": "moil",
+    "skyBlockApiId": "MOIL_LOG"
+  },
+  {
+    "name": "toil",
+    "skyBlockApiId": "TOIL_LOG"
+  },
+  {
+    "name": "greater_spook",
+    "skyBlockApiId": "BOO_STONE"
+  },
+  {
+    "name": "aote_stone",
+    "skyBlockApiId": "AOTE_STONE"
+  },
+  {
+    "name": "bulky",
+    "skyBlockApiId": "BULKY_STONE"
+  },
+  {
+    "name": "coldfusion",
+    "skyBlockApiId": "ENTROPY_SUPPRESSOR"
+  },
+  {
+    "name": "fabled",
+    "skyBlockApiId": "DRAGON_CLAW"
+  },
+  {
+    "name": "fanged",
+    "skyBlockApiId": "FULL_JAW_FANGED_KIT"
+  },
+  {
+    "name": "gilded",
+    "skyBlockApiId": "MIDAS_JEWEL"
+  },
+  {
+    "name": "jerry",
+    "skyBlockApiId": "JERRY_STONE"
+  },
+  {
+    "name": "suspicious",
+    "skyBlockApiId": "SUSPICIOUS_VIAL"
+  },
+  {
+    "name": "withered",
+    "skyBlockApiId": "WITHER_BLOOD"
+  },
+  {
+    "name": "headstrong",
+    "skyBlockApiId": "SALMON_OPAL"
+  },
+  {
+    "name": "precise",
+    "skyBlockApiId": "OPTICAL_LENS"
+  },
+  {
+    "name": "spiritual",
+    "skyBlockApiId": "SPIRIT_DECOY"
+  },
+  {
+    "name": "ancient",
+    "skyBlockApiId": "PRECURSOR_GEAR"
+  },
+  {
+    "name": "bustling",
+    "skyBlockApiId": "SKYMART_BROCHURE"
+  },
+  {
+    "name": "calcified",
+    "skyBlockApiId": "CALCIFIED_HEART"
+  },
+  {
+    "name": "candied",
+    "skyBlockApiId": "CANDY_CORN"
+  },
+  {
+    "name": "loving",
+    "skyBlockApiId": "RED_SCARF"
+  },
+  {
+    "name": "cubic",
+    "skyBlockApiId": "MOLTEN_CUBE"
+  },
+  {
+    "name": "dimensional",
+    "skyBlockApiId": "TITANIUM_TESSERACT"
+  },
+  {
+    "name": "empowered",
+    "skyBlockApiId": "SADAN_BROOCH"
+  },
+  {
+    "name": "festive",
+    "skyBlockApiId": "FROZEN_BAUBLE"
+  },
+  {
+    "name": "giant",
+    "skyBlockApiId": "GIANT_TOOTH"
+  },
+  {
+    "name": "groovy",
+    "skyBlockApiId": "MANGROVE_GEM"
+  },
+  {
+    "name": "ridiculous",
+    "skyBlockApiId": "RED_NOSE"
+  },
+  {
+    "name": "jaded",
+    "skyBlockApiId": "JADERALD"
+  },
+  {
+    "name": "mossy",
+    "skyBlockApiId": "OVERGROWN_GRASS"
+  },
+  {
+    "name": "necrotic",
+    "skyBlockApiId": "NECROMANCER_BROOCH"
+  },
+  {
+    "name": "perfect",
+    "skyBlockApiId": "DIAMOND_ATOM"
+  },
+  {
+    "name": "reinforced",
+    "skyBlockApiId": "RARE_DIAMOND"
+  },
+  {
+    "name": "renowned",
+    "skyBlockApiId": "DRAGON_HORN"
+  },
+  {
+    "name": "spiked",
+    "skyBlockApiId": "DRAGON_SCALE"
+  },
+  {
+    "name": "submerged",
+    "skyBlockApiId": "DEEP_SEA_ORB"
+  },
+  {
+    "name": "undead",
+    "skyBlockApiId": "PREMIUM_FLESH"
+  },
+  {
+    "name": "hyper",
+    "skyBlockApiId": "ENDSTONE_GEODE"
+  },
+  {
+    "name": "blazing",
+    "skyBlockApiId": "BLAZEN_SPHERE"
+  },
+  {
+    "name": "blood_soaked",
+    "skyBlockApiId": "PRESUMED_GALLON_OF_RED_PAINT"
+  },
+  {
+    "name": "blood_shot",
+    "skyBlockApiId": "SHRIVELED_CORNEA"
+  },
+  {
+    "name": "blooming",
+    "skyBlockApiId": "FLOWERING_BOUQUET"
+  },
+  {
+    "name": "fortified",
+    "skyBlockApiId": "METEOR_SHARD"
+  },
+  {
+    "name": "glistening",
+    "skyBlockApiId": "SHINY_PRISM"
+  },
+  {
+    "name": "rooted",
+    "skyBlockApiId": "BURROWING_SPORES"
+  },
+  {
+    "name": "royal",
+    "skyBlockApiId": "DWARVEN_TREASURE"
+  },
+  {
+    "name": "snowy",
+    "skyBlockApiId": "TERRY_SNOWGLOBE"
+  },
+  {
+    "name": "squeaky",
+    "skyBlockApiId": "SQUEAKY_TOY"
+  },
+  {
+    "name": "strengthened",
+    "skyBlockApiId": "SEARING_STONE"
+  },
+  {
+    "name": "waxed",
+    "skyBlockApiId": "BLAZE_WAX"
+  },
+  {
+    "name": "chomp",
+    "skyBlockApiId": "KUUDRA_MANDIBLE"
+  },
+  {
+    "name": "lucky",
+    "skyBlockApiId": "LUCKY_DICE"
+  },
+  {
+    "name": "pitchin",
+    "skyBlockApiId": "PITCHIN_KOI"
+  },
+  {
+    "name": "salty",
+    "skyBlockApiId": "SALT_CUBE"
+  },
+  {
+    "name": "stiff",
+    "skyBlockApiId": "HARDENED_WOOD"
+  },
+  {
+    "name": "trashy",
+    "skyBlockApiId": "OVERFLOWING_TRASH_CAN"
+  },
+  {
+    "name": "treacherous",
+    "skyBlockApiId": "RUSTY_ANCHOR"
+  },
+  {
+    "name": "ambered",
+    "skyBlockApiId": "AMBER_MATERIAL"
+  },
+  {
+    "name": "auspicious",
+    "skyBlockApiId": "ROCK_GEMSTONE"
+  },
+  {
+    "name": "fleet",
+    "skyBlockApiId": "DIAMONITE"
+  },
+  {
+    "name": "fruitful",
+    "skyBlockApiId": "ONYX"
+  },
+  {
+    "name": "glacial",
+    "skyBlockApiId": "FRIGID_HUSK"
+  },
+  {
+    "name": "heated",
+    "skyBlockApiId": "HOT_STUFF"
+  },
+  {
+    "name": "magnetic",
+    "skyBlockApiId": "LAPIS_CRYSTAL"
+  },
+  {
+    "name": "mithraic",
+    "skyBlockApiId": "PURE_MITHRIL"
+  },
+  {
+    "name": "refined",
+    "skyBlockApiId": "REFINED_AMBER"
+  },
+  {
+    "name": "scraped",
+    "skyBlockApiId": "POCKET_ICEBERG"
+  },
+  {
+    "name": "stellar",
+    "skyBlockApiId": "PETRIFIED_STARFALL"
+  },
+  {
+    "name": "lustrous",
+    "skyBlockApiId": "GLEAMING_CRYSTAL"
+  },
+  {
+    "name": "earthy",
+    "skyBlockApiId": "LARGE_WALNUT"
+  },
+  {
+    "name": "moonglade",
+    "skyBlockApiId": "MOONGLADE_JEWEL"
+  },
+  {
+    "name": "bountiful",
+    "skyBlockApiId": "GOLDEN_BALL"
+  },
+  {
+    "name": "blessed",
+    "skyBlockApiId": "BLESSED_FRUIT"
+  },
+  {
+    "name": "beady",
+    "skyBlockApiId": "BEADY_EYES"
+  },
+  {
+    "name": "buzzing",
+    "skyBlockApiId": "CLIPPED_WINGS"
+  }
+]
