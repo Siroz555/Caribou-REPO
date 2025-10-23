@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-10-21T09:56:21.044889+00:00Z",
+  "last_updated": "2025-10-23T13:57:51.035957+00:00Z",
   "files": {
     "data/items_mapping.json": {
       "hash": "22bdcbd06371dcaffbd87db0d20941492e567a0f11dd2627d0f69db4122f29bc",
@@ -15,8 +15,8 @@
       "size": 21579
     },
     "data/enchantments.json": {
-      "hash": "670acf42a8ce4dbb34b5db20916c0d1ce537ef6ddeaaebee353389c312fbdd94",
-      "size": 10172
+      "hash": "b3b45f4a986a0af7902484ceb529921e6a2dcaf93505217711ff6d4d51873384",
+      "size": 10171
     }
   }
 }
