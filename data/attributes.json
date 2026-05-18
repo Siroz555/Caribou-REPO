@@ -68,7 +68,7 @@
   {
     "name": "Creature Fisher",
     "shardName": "Bogged",
-    "id": "C13",
+    "id": "C14",
     "skyBlockApiId": "SHARD_SEA_ARCHER"
   },
   {
@@ -132,6 +132,12 @@
     "skyBlockApiId": "SHARD_MUDWORM"
   },
   {
+    "name": "Lotus Trophy",
+    "shardName": "Lotusfish",
+    "id": "C26",
+    "skyBlockApiId": "SHARD_LOTUSFISH"
+  },
+  {
     "name": "Midas Touch",
     "shardName": "Golden Ghoul",
     "id": "C27",
@@ -172,6 +178,12 @@
     "shardName": "Miner Zombie",
     "id": "C36",
     "skyBlockApiId": "SHARD_MINER_ZOMBIE"
+  },
+  {
+    "name": "Mythological Resistance",
+    "shardName": "Cretan Bull",
+    "id": "C39",
+    "skyBlockApiId": "SHARD_CRETAN_BULL"
   },
   {
     "name": "Wood Elemental",
@@ -282,6 +294,12 @@
     "skyBlockApiId": "SHARD_PRAYING_MANTIS"
   },
   {
+    "name": "Lily Tracker",
+    "shardName": "Lotum",
+    "id": "U23",
+    "skyBlockApiId": "SHARD_LOTUM"
+  },
+  {
     "name": "Undead Ruler",
     "shardName": "Zombie Soldier",
     "id": "U24",
@@ -364,6 +382,18 @@
     "shardName": "Termite",
     "id": "U40",
     "skyBlockApiId": "SHARD_TERMITE"
+  },
+  {
+    "name": "Golden Frog",
+    "shardName": "Flipflopper",
+    "id": "U41",
+    "skyBlockApiId": "SHARD_FLIPFLOPPER"
+  },
+  {
+    "name": "Lily Puncher",
+    "shardName": "Tewtil",
+    "id": "U59",
+    "skyBlockApiId": "SHARD_TEWTIL"
   },
   {
     "name": "Forest Elemental",
@@ -510,6 +540,12 @@
     "skyBlockApiId": "SHARD_THYST"
   },
   {
+    "name": "Diamond Frog",
+    "shardName": "Seashine",
+    "id": "R32",
+    "skyBlockApiId": "SHARD_SEASHINE"
+  },
+  {
     "name": "Quartz Speed",
     "shardName": "Quartzfang",
     "id": "R33",
@@ -648,6 +684,12 @@
     "skyBlockApiId": "SHARD_GECKO"
   },
   {
+    "name": "Mythological Fortune",
+    "shardName": "Minotaur",
+    "id": "R63",
+    "skyBlockApiId": "SHARD_MINOTAUR"
+  },
+  {
     "name": "Shop",
     "shardName": "Hummingbird",
     "id": "R64",
@@ -712,12 +754,6 @@
     "shardName": "Moray Eel",
     "id": "E11",
     "skyBlockApiId": "SHARD_MORAY_EEL"
-  },
-  {
-    "name": "Dominance",
-    "shardName": "Thorn",
-    "id": "E12",
-    "skyBlockApiId": "SHARD_THORN"
   },
   {
     "name": "Lunar Power",
@@ -798,10 +834,10 @@
     "skyBlockApiId": "SHARD_TOUCAN"
   },
   {
-    "name": "Matriarch Cubs",
-    "shardName": "Hellwisp",
+    "name": "Attack Speed",
+    "shardName": "Inferno Demonlord",
     "id": "E29",
-    "skyBlockApiId": "SHARD_HELLWISP"
+    "skyBlockApiId": "SHARD_BURNINGSOUL"
   },
   {
     "name": "Echo of Ruler",
@@ -852,6 +888,24 @@
     "skyBlockApiId": "SHARD_DRAGONFLY"
   },
   {
+    "name": "Mythological Tracker",
+    "shardName": "Sphinx",
+    "id": "E39",
+    "skyBlockApiId": "SHARD_SPHINX"
+  },
+  {
+    "name": "King of Greed",
+    "shardName": "King Minos",
+    "id": "E42",
+    "skyBlockApiId": "SHARD_KING_MINOS"
+  },
+  {
+    "name": "Freezing Spread",
+    "shardName": "Littlefoot",
+    "id": "E45",
+    "skyBlockApiId": "SHARD_LITTLEFOOT"
+  },
+  {
     "name": "Shadow Elemental",
     "shardName": "Tenebris",
     "id": "L1",
@@ -876,6 +930,12 @@
     "skyBlockApiId": "SHARD_CHAMELEON"
   },
   {
+    "name": "Loch Hook",
+    "shardName": "Nessie",
+    "id": "L5",
+    "skyBlockApiId": "SHARD_NESSIE"
+  },
+  {
     "name": "Echo of Echoes",
     "shardName": "Tiamat",
     "id": "L6",
@@ -894,7 +954,7 @@
     "skyBlockApiId": "SHARD_TORTOISE"
   },
   {
-    "name": "Paramount Fortitude",
+    "name": "Unlimited Fortitude",
     "shardName": "End Stone Protector",
     "id": "L9",
     "skyBlockApiId": "SHARD_ENDSTONE_PROTECTOR"
@@ -930,7 +990,7 @@
     "skyBlockApiId": "SHARD_KRAKEN"
   },
   {
-    "name": "Maximal Torment",
+    "name": "Unlimited Torment",
     "shardName": "Taurus",
     "id": "L17",
     "skyBlockApiId": "SHARD_TAURUS"
@@ -972,10 +1032,10 @@
     "skyBlockApiId": "SHARD_LORD_JAWBUS"
   },
   {
-    "name": "Attack Speed",
-    "shardName": "Burningsoul",
+    "name": "Matriarch Cubs",
+    "shardName": "Hellwisp",
     "id": "L27",
-    "skyBlockApiId": "SHARD_BURNINGSOUL"
+    "skyBlockApiId": "SHARD_HELLWISP"
   },
   {
     "name": "Magic Find",
@@ -1050,10 +1110,22 @@
     "skyBlockApiId": "SHARD_STARBORN"
   },
   {
+    "name": "Groovy Radar",
+    "shardName": "Cocoaleech",
+    "id": "L46",
+    "skyBlockApiId": "SHARD_COCOALEECH"
+  },
+  {
     "name": "Bayou Biter",
     "shardName": "Titanoboa",
     "id": "L47",
     "skyBlockApiId": "SHARD_TITANOBOA"
+  },
+  {
+    "name": "Dominance",
+    "shardName": "Thorn",
+    "id": "L48",
+    "skyBlockApiId": "SHARD_THORN"
   },
   {
     "name": "Catacombs Graduate",
