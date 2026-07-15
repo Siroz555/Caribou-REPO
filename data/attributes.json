@@ -36,12 +36,6 @@
     "skyBlockApiId": "SHARD_PHANFLARE"
   },
   {
-    "name": "Fisherman",
-    "shardName": "Night Squid",
-    "id": "C8",
-    "skyBlockApiId": "SHARD_NIGHT_SQUID"
-  },
-  {
     "name": "Experience",
     "shardName": "Lapis Zombie",
     "id": "C9",
@@ -135,7 +129,7 @@
     "name": "Lotus Trophy",
     "shardName": "Lotusfish",
     "id": "C26",
-    "skyBlockApiId": "SHARD_LOTUSFISH"
+    "skyBlockApiId": "SHARD_LOTUS_FISH"
   },
   {
     "name": "Midas Touch",
@@ -154,6 +148,12 @@
     "shardName": "Bezal",
     "id": "C30",
     "skyBlockApiId": "SHARD_BEZAL"
+  },
+  {
+    "name": "Fisherman",
+    "shardName": "Inkling",
+    "id": "C32",
+    "skyBlockApiId": "SHARD_NIGHT_SQUID"
   },
   {
     "name": "Yog Membrane",
@@ -387,7 +387,7 @@
     "name": "Golden Frog",
     "shardName": "Flipflopper",
     "id": "U41",
-    "skyBlockApiId": "SHARD_FLIPFLOPPER"
+    "skyBlockApiId": "SHARD_FLIP_FLOPPER"
   },
   {
     "name": "Lily Puncher",
@@ -543,7 +543,7 @@
     "name": "Diamond Frog",
     "shardName": "Seashine",
     "id": "R32",
-    "skyBlockApiId": "SHARD_SEASHINE"
+    "skyBlockApiId": "SHARD_SEA_SHINE"
   },
   {
     "name": "Quartz Speed",
