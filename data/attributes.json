@@ -81,7 +81,7 @@
     "name": "Creature Fisher",
     "shardName": "Bogged",
     "id": "C14",
-    "skyBlockApiId": "SHARD_BOGGED"
+    "skyBlockApiId": "SHARD_SEA_ARCHER"
   },
   {
     "name": "Arthropod Resistance",
@@ -153,7 +153,7 @@
     "name": "Lotus Trophy",
     "shardName": "Lotusfish",
     "id": "C26",
-    "skyBlockApiId": "SHARD_LOTUSFISH"
+    "skyBlockApiId": "SHARD_LOTUS_FISH"
   },
   {
     "name": "Midas Touch",
@@ -189,7 +189,7 @@
     "name": "Fisherman",
     "shardName": "Inkling",
     "id": "C32",
-    "skyBlockApiId": "SHARD_INKLING"
+    "skyBlockApiId": "SHARD_NIGHT_SQUID"
   },
   {
     "name": "Yog Membrane",
@@ -387,7 +387,7 @@
     "name": "Pest Luck",
     "shardName": "Field Mouse",
     "id": "U10",
-    "skyBlockApiId": "SHARD_FIELD_MOUSE"
+    "skyBlockApiId": "SHARD_PEST"
   },
   {
     "name": "Forest Trap",
@@ -531,13 +531,13 @@
     "name": "Ender Ruler",
     "shardName": "Zealot Bruiser",
     "id": "U36",
-    "skyBlockApiId": "SHARD_ZEALOT_BRUISER"
+    "skyBlockApiId": "SHARD_BRUISER"
   },
   {
     "name": "Magmatic Ruler",
     "shardName": "Stridersurfer",
     "id": "U38",
-    "skyBlockApiId": "SHARD_STRIDERSURFER"
+    "skyBlockApiId": "SHARD_STRIDER_SURFER"
   },
   {
     "name": "Battle Frog",
@@ -549,13 +549,13 @@
     "name": "Infiltration",
     "shardName": "Earthworm",
     "id": "U40",
-    "skyBlockApiId": "SHARD_EARTHWORM"
+    "skyBlockApiId": "SHARD_TERMITE"
   },
   {
     "name": "Golden Frog",
     "shardName": "Flipflopper",
     "id": "U41",
-    "skyBlockApiId": "SHARD_FLIPFLOPPER"
+    "skyBlockApiId": "SHARD_FLIP_FLOPPER"
   },
   {
     "name": "Frozen Ruler",
@@ -891,7 +891,7 @@
     "name": "Crop Bug",
     "shardName": "Beetle",
     "id": "R16",
-    "skyBlockApiId": "SHARD_BEETLE"
+    "skyBlockApiId": "SHARD_CROPEETL"
   },
   {
     "name": "Undead Fortune",
@@ -921,7 +921,7 @@
     "name": "Dwarven Serendipity",
     "shardName": "Abyssal Lanternfish",
     "id": "R23",
-    "skyBlockApiId": "SHARD_ABYSSAL_LANTERNFISH"
+    "skyBlockApiId": "SHARD_ABYSSAL_LANTERN"
   },
   {
     "name": "Essence of Arthropods",
@@ -969,7 +969,7 @@
     "name": "Diamond Frog",
     "shardName": "Seashine",
     "id": "R32",
-    "skyBlockApiId": "SHARD_SEASHINE"
+    "skyBlockApiId": "SHARD_SEA_SHINE"
   },
   {
     "name": "Quartz Speed",
@@ -1149,7 +1149,7 @@
     "name": "Cubic Fortune",
     "shardName": "Hivethief",
     "id": "R64",
-    "skyBlockApiId": "SHARD_HIVETHIEF"
+    "skyBlockApiId": "SHARD_HUMMINGBIR"
   },
   {
     "name": "Boot Fisher",
@@ -1443,7 +1443,7 @@
     "name": "Sea Wisdom",
     "shardName": "Loch Emperor",
     "id": "E20",
-    "skyBlockApiId": "SHARD_LOCH_EMPEROR"
+    "skyBlockApiId": "SHARD_SEA_EMPEROR"
   },
   {
     "name": "Reborn",
@@ -1497,7 +1497,7 @@
     "name": "Attack Speed",
     "shardName": "Inferno Demonlord",
     "id": "E29",
-    "skyBlockApiId": "SHARD_INFERNO_DEMONLORD"
+    "skyBlockApiId": "SHARD_BURNINGSOUL"
   },
   {
     "name": "Echo of Ruler",
@@ -1695,7 +1695,7 @@
     "name": "Unlimited Fortitude",
     "shardName": "End Stone Protector",
     "id": "L9",
-    "skyBlockApiId": "SHARD_END_STONE_PROTECTOR"
+    "skyBlockApiId": "SHARD_ENDSTONE_PROTECTOR"
   },
   {
     "name": "Egg Finder",
@@ -1797,7 +1797,7 @@
     "name": "Magic Find",
     "shardName": "Cinderbat",
     "id": "L28",
-    "skyBlockApiId": "SHARD_CINDERBAT"
+    "skyBlockApiId": "SHARD_CINDER_BAT"
   },
   {
     "name": "Hunter's Karma",
