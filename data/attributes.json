@@ -626,13 +626,13 @@
   {
     "name": "Animal Ruler",
     "shardName": "Sprawl",
-    "id": "U53",
+    "id": "U71",
     "skyBlockApiId": "SHARD_SPRAWL"
   },
   {
     "name": "Yeti Tracker",
     "shardName": "Shuddersquid",
-    "id": "U54",
+    "id": "U53",
     "skyBlockApiId": "SHARD_SHUDDERSQUID"
   },
   {
@@ -722,7 +722,7 @@
   {
     "name": "Legendary Rabbit Luck",
     "shardName": "Rabbit Cat",
-    "id": "U66",
+    "id": "U106",
     "skyBlockApiId": "SHARD_RABBIT_CAT"
   },
   {
@@ -1046,13 +1046,13 @@
   {
     "name": "Berry Enjoyer",
     "shardName": "Bullfrog",
-    "id": "R46",
+    "id": "R47",
     "skyBlockApiId": "SHARD_BULLFROG"
   },
   {
     "name": "Animal Fortune",
     "shardName": "Wild Hog",
-    "id": "R48",
+    "id": "R46",
     "skyBlockApiId": "SHARD_WILD_HOG"
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "name": "Frozen Fortune",
     "shardName": "Billygoat",
-    "id": "R71",
+    "id": "R78",
     "skyBlockApiId": "SHARD_BILLYGOAT"
   },
   {
@@ -1232,7 +1232,7 @@
   {
     "name": "Arthropod Fortune",
     "shardName": "Black Widow",
-    "id": "R78",
+    "id": "R87",
     "skyBlockApiId": "SHARD_BLACK_WIDOW"
   },
   {
@@ -1496,7 +1496,7 @@
   {
     "name": "Attack Speed",
     "shardName": "Inferno Demonlord",
-    "id": "E29",
+    "id": "E48",
     "skyBlockApiId": "SHARD_BURNINGSOUL"
   },
   {
@@ -1556,7 +1556,7 @@
   {
     "name": "Dominance",
     "shardName": "Thorn",
-    "id": "E40",
+    "id": "E57",
     "skyBlockApiId": "SHARD_THORN"
   },
   {
