@@ -30,10 +30,22 @@
     "skyBlockApiId": "SHARD_COD"
   },
   {
+    "name": "Animal Resistance",
+    "shardName": "Howling Spirit",
+    "id": "C6",
+    "skyBlockApiId": "SHARD_HOWLING_SPIRIT"
+  },
+  {
     "name": "Moonglade Mastery",
     "shardName": "Phanflare",
     "id": "C7",
     "skyBlockApiId": "SHARD_PHANFLARE"
+  },
+  {
+    "name": "Aquatic Resistance",
+    "shardName": "Dumpster Diver",
+    "id": "C8",
+    "skyBlockApiId": "SHARD_DUMPSTER_DIVER"
   },
   {
     "name": "Experience",
@@ -58,6 +70,12 @@
     "shardName": "Chill",
     "id": "C12",
     "skyBlockApiId": "SHARD_CHILL"
+  },
+  {
+    "name": "Fortunate Farmer",
+    "shardName": "Fly",
+    "id": "C13",
+    "skyBlockApiId": "SHARD_FLY"
   },
   {
     "name": "Creature Fisher",
@@ -108,6 +126,12 @@
     "skyBlockApiId": "SHARD_ZEALOT"
   },
   {
+    "name": "Hitman Cooldown",
+    "shardName": "Rabbit Mafioso",
+    "id": "C22",
+    "skyBlockApiId": "SHARD_RABBIT_MAFIOSO"
+  },
+  {
     "name": "Bucket Lover",
     "shardName": "Coralot",
     "id": "C23",
@@ -120,7 +144,7 @@
     "skyBlockApiId": "SHARD_HARPY"
   },
   {
-    "name": "Visitor Bait",
+    "name": "Visitor Speed",
     "shardName": "Mudworm",
     "id": "C25",
     "skyBlockApiId": "SHARD_MUDWORM"
@@ -138,6 +162,12 @@
     "skyBlockApiId": "SHARD_GOLDEN_GHOUL"
   },
   {
+    "name": "Crop Speed",
+    "shardName": "Locust",
+    "id": "C28",
+    "skyBlockApiId": "SHARD_LOCUST"
+  },
+  {
     "name": "Forest Strength",
     "shardName": "Azure",
     "id": "C29",
@@ -148,6 +178,12 @@
     "shardName": "Bezal",
     "id": "C30",
     "skyBlockApiId": "SHARD_BEZAL"
+  },
+  {
+    "name": "Woodland Resistance",
+    "shardName": "Stag Beetle",
+    "id": "C31",
+    "skyBlockApiId": "SHARD_STAG_BEETLE"
   },
   {
     "name": "Fisherman",
@@ -180,10 +216,118 @@
     "skyBlockApiId": "SHARD_MINER_ZOMBIE"
   },
   {
+    "name": "Fortunate Miner",
+    "shardName": "Flitter",
+    "id": "C37",
+    "skyBlockApiId": "SHARD_FLITTER"
+  },
+  {
+    "name": "Lake Fishing",
+    "shardName": "Tepid",
+    "id": "C38",
+    "skyBlockApiId": "SHARD_TEPID"
+  },
+  {
     "name": "Mythological Resistance",
     "shardName": "Cretan Bull",
     "id": "C39",
     "skyBlockApiId": "SHARD_CRETAN_BULL"
+  },
+  {
+    "name": "Queen Tracker",
+    "shardName": "Ant",
+    "id": "C40",
+    "skyBlockApiId": "SHARD_ANT"
+  },
+  {
+    "name": "Cave Fishing",
+    "shardName": "Cavernfish",
+    "id": "C41",
+    "skyBlockApiId": "SHARD_CAVERNFISH"
+  },
+  {
+    "name": "Frozen Resistance",
+    "shardName": "Strongarm",
+    "id": "C42",
+    "skyBlockApiId": "SHARD_STRONGARM"
+  },
+  {
+    "name": "Gold Box",
+    "shardName": "Hideonsun",
+    "id": "C43",
+    "skyBlockApiId": "SHARD_HIDEONSUN"
+  },
+  {
+    "name": "Skeletal Resistance",
+    "shardName": "Haggard",
+    "id": "C44",
+    "skyBlockApiId": "SHARD_HAGGARD"
+  },
+  {
+    "name": "Honey Speed",
+    "shardName": "Honeyhog",
+    "id": "C45",
+    "skyBlockApiId": "SHARD_HONEYHOG"
+  },
+  {
+    "name": "Subterranean Resistance",
+    "shardName": "Shyworm",
+    "id": "C46",
+    "skyBlockApiId": "SHARD_SHYWORM"
+  },
+  {
+    "name": "Arcane Resistance",
+    "shardName": "Brineling",
+    "id": "C47",
+    "skyBlockApiId": "SHARD_BRINELING"
+  },
+  {
+    "name": "Foraging Speed",
+    "shardName": "Foxtrot",
+    "id": "C49",
+    "skyBlockApiId": "SHARD_FOXTROT"
+  },
+  {
+    "name": "Torrhus Mastery",
+    "shardName": "Firefox",
+    "id": "C52",
+    "skyBlockApiId": "SHARD_FIREFOX"
+  },
+  {
+    "name": "Diurnal Animal",
+    "shardName": "Groundhog",
+    "id": "C55",
+    "skyBlockApiId": "SHARD_GROUNDHOG"
+  },
+  {
+    "name": "Torrhus Diver",
+    "shardName": "Timil",
+    "id": "C56",
+    "skyBlockApiId": "SHARD_TIMIL"
+  },
+  {
+    "name": "Airborne Resistance",
+    "shardName": "Blue Jay",
+    "id": "C58",
+    "skyBlockApiId": "SHARD_BLUE_JAY"
+  },
+  {
+    "name": "Chocolate Speed",
+    "shardName": "Bunbun",
+    "id": "C61",
+    "skyBlockApiId": "SHARD_BUNBUN"
+  },
+  {
+    "name": "Honey Haul",
+    "shardName": "Honeybuzz",
+    "id": "C64",
+    "skyBlockApiId": "SHARD_HONEYBUZZ"
+  },
+  {
+    "name": "Honey Luck",
+    "shardName": "Pollendart",
+    "id": "C67",
+    "skyBlockApiId": "SHARD_POLLENDART"
   },
   {
     "name": "Wood Elemental",
@@ -241,7 +385,7 @@
   },
   {
     "name": "Pest Luck",
-    "shardName": "Pest",
+    "shardName": "Field Mouse",
     "id": "U10",
     "skyBlockApiId": "SHARD_PEST"
   },
@@ -270,10 +414,28 @@
     "skyBlockApiId": "SHARD_HERON"
   },
   {
+    "name": "Humanoid Ruler",
+    "shardName": "Wetwing",
+    "id": "U17",
+    "skyBlockApiId": "SHARD_WETWING"
+  },
+  {
+    "name": "Witch's Fortune",
+    "shardName": "Sea Witch",
+    "id": "U17",
+    "skyBlockApiId": "SHARD_SEA_WITCH"
+  },
+  {
     "name": "Speed",
     "shardName": "Obsidian Defender",
     "id": "U18",
     "skyBlockApiId": "SHARD_OBSIDIAN_DEFENDER"
+  },
+  {
+    "name": "Pest Fortune",
+    "shardName": "Cricket",
+    "id": "U19",
+    "skyBlockApiId": "SHARD_CRICKET"
   },
   {
     "name": "Lost and Found",
@@ -288,7 +450,7 @@
     "skyBlockApiId": "SHARD_VIPER"
   },
   {
-    "name": "Insect Power",
+    "name": "Pest Ruler",
     "shardName": "Praying Mantis",
     "id": "U22",
     "skyBlockApiId": "SHARD_PRAYING_MANTIS"
@@ -312,6 +474,12 @@
     "skyBlockApiId": "SHARD_BAMBULEAF"
   },
   {
+    "name": "Dwarven Training",
+    "shardName": "Treasure Hoarder",
+    "id": "U26",
+    "skyBlockApiId": "SHARD_TREASURE_HOARDER"
+  },
+  {
     "name": "Life Recovery",
     "shardName": "Sycophant",
     "id": "U27",
@@ -324,7 +492,7 @@
     "skyBlockApiId": "SHARD_SEAGULL"
   },
   {
-    "name": "Spirit Axe",
+    "name": "Woodland Ruler",
     "shardName": "Ent",
     "id": "U29",
     "skyBlockApiId": "SHARD_ENT"
@@ -361,7 +529,7 @@
   },
   {
     "name": "Ender Ruler",
-    "shardName": "Bruiser",
+    "shardName": "Zealot Bruiser",
     "id": "U36",
     "skyBlockApiId": "SHARD_BRUISER"
   },
@@ -379,7 +547,7 @@
   },
   {
     "name": "Infiltration",
-    "shardName": "Termite",
+    "shardName": "Earthworm",
     "id": "U40",
     "skyBlockApiId": "SHARD_TERMITE"
   },
@@ -390,10 +558,256 @@
     "skyBlockApiId": "SHARD_FLIP_FLOPPER"
   },
   {
+    "name": "Frozen Ruler",
+    "shardName": "Polaris",
+    "id": "U42",
+    "skyBlockApiId": "SHARD_POLARIS"
+  },
+  {
+    "name": "Foraging Frog",
+    "shardName": "Treefrog",
+    "id": "U43",
+    "skyBlockApiId": "SHARD_TREEFROG"
+  },
+  {
+    "name": "Compost Speed",
+    "shardName": "Bayou Sludge",
+    "id": "U44",
+    "skyBlockApiId": "SHARD_BAYOU_SLUDGE"
+  },
+  {
+    "name": "Battle Arachnid",
+    "shardName": "Areita",
+    "id": "U45",
+    "skyBlockApiId": "SHARD_AREITA"
+  },
+  {
+    "name": "Airborne Ruler",
+    "shardName": "Bluebird",
+    "id": "U46",
+    "skyBlockApiId": "SHARD_BLUEBIRD"
+  },
+  {
+    "name": "Flexible Fisher",
+    "shardName": "Osedax",
+    "id": "U47",
+    "skyBlockApiId": "SHARD_OSEDAX"
+  },
+  {
+    "name": "Arcane Ruler",
+    "shardName": "Duplico",
+    "id": "U48",
+    "skyBlockApiId": "SHARD_DUPLICO"
+  },
+  {
+    "name": "Buckle Fisher",
+    "shardName": "Litterbug",
+    "id": "U49",
+    "skyBlockApiId": "SHARD_LITTERBUG"
+  },
+  {
+    "name": "Titanoboa Tracker",
+    "shardName": "Water Snake",
+    "id": "U50",
+    "skyBlockApiId": "SHARD_WATER_SNAKE"
+  },
+  {
+    "name": "Zealot Tracker",
+    "shardName": "Gazer",
+    "id": "U51",
+    "skyBlockApiId": "SHARD_GAZER"
+  },
+  {
+    "name": "Visitor Honey",
+    "shardName": "Honeybug",
+    "id": "U52",
+    "skyBlockApiId": "SHARD_HONEYBUG"
+  },
+  {
+    "name": "Animal Ruler",
+    "shardName": "Sprawl",
+    "id": "U71",
+    "skyBlockApiId": "SHARD_SPRAWL"
+  },
+  {
+    "name": "Yeti Tracker",
+    "shardName": "Shuddersquid",
+    "id": "U53",
+    "skyBlockApiId": "SHARD_SHUDDERSQUID"
+  },
+  {
+    "name": "Soul Snatcher",
+    "shardName": "Solsnatcher",
+    "id": "U55",
+    "skyBlockApiId": "SHARD_SOLSNATCHER"
+  },
+  {
+    "name": "Bucket Greed",
+    "shardName": "Sepialot",
+    "id": "U56",
+    "skyBlockApiId": "SHARD_SEPIALOT"
+  },
+  {
+    "name": "Honey Serendipity",
+    "shardName": "Honey Badger",
+    "id": "U57",
+    "skyBlockApiId": "SHARD_HONEY_BADGER"
+  },
+  {
+    "name": "Elusive Ruler",
+    "shardName": "Queen Ant",
+    "id": "U58",
+    "skyBlockApiId": "SHARD_QUEEN_ANT"
+  },
+  {
+    "name": "Subterranean Ruler",
+    "shardName": "Driftling",
+    "id": "U58",
+    "skyBlockApiId": "SHARD_DRIFTLING"
+  },
+  {
     "name": "Lily Puncher",
     "shardName": "Tewtil",
     "id": "U59",
     "skyBlockApiId": "SHARD_TEWTIL"
+  },
+  {
+    "name": "Mythological Ruler",
+    "shardName": "Minos Hunter",
+    "id": "U60",
+    "skyBlockApiId": "SHARD_MINOS_HUNTER"
+  },
+  {
+    "name": "Helix Collector",
+    "shardName": "Hawk",
+    "id": "U61",
+    "skyBlockApiId": "SHARD_HAWK"
+  },
+  {
+    "name": "Builder Discount",
+    "shardName": "Woodchucker",
+    "id": "U61",
+    "skyBlockApiId": "SHARD_WOODCHUCKER"
+  },
+  {
+    "name": "Starlyn Training",
+    "shardName": "Solar",
+    "id": "U62",
+    "skyBlockApiId": "SHARD_SOLAR"
+  },
+  {
+    "name": "Visitor Compost",
+    "shardName": "Parched",
+    "id": "U63",
+    "skyBlockApiId": "SHARD_PARCHED"
+  },
+  {
+    "name": "Bartender Discount",
+    "shardName": "Bloodbat",
+    "id": "U64",
+    "skyBlockApiId": "SHARD_BLOODBAT"
+  },
+  {
+    "name": "Visitor Dung",
+    "shardName": "Dung Beetle",
+    "id": "U64",
+    "skyBlockApiId": "SHARD_DUNG_BEETLE"
+  },
+  {
+    "name": "Combat Trap",
+    "shardName": "Dustybit",
+    "id": "U65",
+    "skyBlockApiId": "SHARD_DUSTYBIT"
+  },
+  {
+    "name": "Legendary Rabbit Luck",
+    "shardName": "Rabbit Cat",
+    "id": "U106",
+    "skyBlockApiId": "SHARD_RABBIT_CAT"
+  },
+  {
+    "name": "Visitor Cheese",
+    "shardName": "Woodlouse",
+    "id": "U67",
+    "skyBlockApiId": "SHARD_WOODLOUSE"
+  },
+  {
+    "name": "Galatea Training",
+    "shardName": "Ember",
+    "id": "U68",
+    "skyBlockApiId": "SHARD_EMBER"
+  },
+  {
+    "name": "Bayou Treasure",
+    "shardName": "Cheeky Tiki",
+    "id": "U69",
+    "skyBlockApiId": "SHARD_CHEEKY_TIKI"
+  },
+  {
+    "name": "Visitor Plant",
+    "shardName": "Red Panda",
+    "id": "U70",
+    "skyBlockApiId": "SHARD_RED_PANDA"
+  },
+  {
+    "name": "Tiki Tracker",
+    "shardName": "Sneaky Tiki",
+    "id": "U72",
+    "skyBlockApiId": "SHARD_SNEAKY_TIKI"
+  },
+  {
+    "name": "Construct Ruler",
+    "shardName": "Shrieky Tiki",
+    "id": "U75",
+    "skyBlockApiId": "SHARD_SHRIEKY_TIKI"
+  },
+  {
+    "name": "Forest Felling",
+    "shardName": "Woodpecker",
+    "id": "U76",
+    "skyBlockApiId": "SHARD_WOODPECKER"
+  },
+  {
+    "name": "Mite Spawner",
+    "shardName": "Honeymite",
+    "id": "U78",
+    "skyBlockApiId": "SHARD_HONEYMITE"
+  },
+  {
+    "name": "Ticket Discount",
+    "shardName": "June Bug",
+    "id": "U85",
+    "skyBlockApiId": "SHARD_JUNE_BUG"
+  },
+  {
+    "name": "Sprayonator Serendipity",
+    "shardName": "Rat",
+    "id": "U91",
+    "skyBlockApiId": "SHARD_RAT"
+  },
+  {
+    "name": "Bonus Pest Chance",
+    "shardName": "Keeled Slug",
+    "id": "U94",
+    "skyBlockApiId": "SHARD_KEELED_SLUG"
+  },
+  {
+    "name": "Filter Upgrade",
+    "shardName": "Mite",
+    "id": "U97",
+    "skyBlockApiId": "SHARD_MITE"
+  },
+  {
+    "name": "Pest Cooldown",
+    "shardName": "Moth",
+    "id": "U100",
+    "skyBlockApiId": "SHARD_MOTH"
+  },
+  {
+    "name": "Enchanted Farmer",
+    "shardName": "Mosquito",
+    "id": "U103",
+    "skyBlockApiId": "SHARD_MOSQUITO"
   },
   {
     "name": "Forest Elemental",
@@ -475,15 +889,21 @@
   },
   {
     "name": "Crop Bug",
-    "shardName": "Cropeetle",
+    "shardName": "Beetle",
     "id": "R16",
-    "skyBlockApiId": "SHARD_CROPEETLE"
+    "skyBlockApiId": "SHARD_CROPEETL"
   },
   {
-    "name": "Humanoid Ruler",
+    "name": "Undead Fortune",
     "shardName": "Drowned",
     "id": "R18",
     "skyBlockApiId": "SHARD_DROWNED"
+  },
+  {
+    "name": "Helix Sharpening",
+    "shardName": "Vulture",
+    "id": "R19",
+    "skyBlockApiId": "SHARD_VULTURE"
   },
   {
     "name": "Atomized Mithril",
@@ -514,6 +934,12 @@
     "shardName": "Bitbug",
     "id": "R25",
     "skyBlockApiId": "SHARD_BITBUG"
+  },
+  {
+    "name": "Essence of Crimson",
+    "shardName": "Lava Leech",
+    "id": "R26",
+    "skyBlockApiId": "SHARD_LAVA_LEECH"
   },
   {
     "name": "Essence of Unliving",
@@ -570,6 +996,12 @@
     "skyBlockApiId": "SHARD_KADA_KNIGHT"
   },
   {
+    "name": "Chop",
+    "shardName": "Hummingbird",
+    "id": "R37",
+    "skyBlockApiId": "SHARD_HUMMINGBIRD"
+  },
+  {
     "name": "Rabbit Crew",
     "shardName": "Carrot King",
     "id": "R38",
@@ -577,9 +1009,15 @@
   },
   {
     "name": "Breeze",
-    "shardName": "Wither Specter",
+    "shardName": "Wither Spectre",
     "id": "R39",
     "skyBlockApiId": "SHARD_WITHER_SPECTER"
+  },
+  {
+    "name": "Battle Tracker",
+    "shardName": "Badger",
+    "id": "R40",
+    "skyBlockApiId": "SHARD_BADGER"
   },
   {
     "name": "Ignition",
@@ -588,7 +1026,7 @@
     "skyBlockApiId": "SHARD_MATCHO"
   },
   {
-    "name": "Pretty Clothes",
+    "name": "Visitor Copper",
     "shardName": "Ladybug",
     "id": "R43",
     "skyBlockApiId": "SHARD_LADYBUG"
@@ -608,8 +1046,14 @@
   {
     "name": "Berry Enjoyer",
     "shardName": "Bullfrog",
-    "id": "R46",
+    "id": "R47",
     "skyBlockApiId": "SHARD_BULLFROG"
+  },
+  {
+    "name": "Animal Fortune",
+    "shardName": "Wild Hog",
+    "id": "R46",
+    "skyBlockApiId": "SHARD_WILD_HOG"
   },
   {
     "name": "Essence of the Forest",
@@ -648,6 +1092,12 @@
     "skyBlockApiId": "SHARD_KING_COBRA"
   },
   {
+    "name": "Critter Fortune",
+    "shardName": "Hewver",
+    "id": "R55",
+    "skyBlockApiId": "SHARD_HEWVER"
+  },
+  {
     "name": "Blazing Fortune",
     "shardName": "Lava Flame",
     "id": "R56",
@@ -684,16 +1134,196 @@
     "skyBlockApiId": "SHARD_GECKO"
   },
   {
+    "name": "Construct Fortune",
+    "shardName": "Wiki Tiki",
+    "id": "R62",
+    "skyBlockApiId": "SHARD_WIKI_TIKI"
+  },
+  {
     "name": "Mythological Fortune",
     "shardName": "Minotaur",
     "id": "R63",
     "skyBlockApiId": "SHARD_MINOTAUR"
   },
   {
-    "name": "Shop",
-    "shardName": "Hummingbird",
+    "name": "Cubic Fortune",
+    "shardName": "Hivethief",
     "id": "R64",
     "skyBlockApiId": "SHARD_HUMMINGBIRD"
+  },
+  {
+    "name": "Boot Fisher",
+    "shardName": "Maggot",
+    "id": "R65",
+    "skyBlockApiId": "SHARD_MAGGOT"
+  },
+  {
+    "name": "Sleepy Spread",
+    "shardName": "Snoozle",
+    "id": "R66",
+    "skyBlockApiId": "SHARD_SNOOZLE"
+  },
+  {
+    "name": "Flying Fortune",
+    "shardName": "Parakeet",
+    "id": "R67",
+    "skyBlockApiId": "SHARD_PARAKEET"
+  },
+  {
+    "name": "Thunder Speed",
+    "shardName": "Thunder",
+    "id": "R68",
+    "skyBlockApiId": "SHARD_THUNDER"
+  },
+  {
+    "name": "Cavernous Tracker",
+    "shardName": "Rockmite",
+    "id": "R69",
+    "skyBlockApiId": "SHARD_ROCKMITE"
+  },
+  {
+    "name": "Floor Fortune",
+    "shardName": "Anteater",
+    "id": "R70",
+    "skyBlockApiId": "SHARD_ANTEATER"
+  },
+  {
+    "name": "Frozen Fortune",
+    "shardName": "Billygoat",
+    "id": "R78",
+    "skyBlockApiId": "SHARD_BILLYGOAT"
+  },
+  {
+    "name": "Scrap Chance",
+    "shardName": "Scrappy",
+    "id": "R72",
+    "skyBlockApiId": "SHARD_SCRAPPY"
+  },
+  {
+    "name": "Elusive Fortune",
+    "shardName": "Hideyho",
+    "id": "R73",
+    "skyBlockApiId": "SHARD_HIDEYHO"
+  },
+  {
+    "name": "Great Treasure",
+    "shardName": "Mantis Shrimp",
+    "id": "R74",
+    "skyBlockApiId": "SHARD_MANTIS_SHRIMP"
+  },
+  {
+    "name": "Subterranean Fortune",
+    "shardName": "Chuckwalla",
+    "id": "R75",
+    "skyBlockApiId": "SHARD_CHUCKWALLA"
+  },
+  {
+    "name": "Woodland Fortune",
+    "shardName": "Hideonfloor",
+    "id": "R76",
+    "skyBlockApiId": "SHARD_HIDEONFLOOR"
+  },
+  {
+    "name": "Greedy Goblin",
+    "shardName": "Gimmiegold",
+    "id": "R77",
+    "skyBlockApiId": "SHARD_GIMMIEGOLD"
+  },
+  {
+    "name": "Arthropod Fortune",
+    "shardName": "Black Widow",
+    "id": "R87",
+    "skyBlockApiId": "SHARD_BLACK_WIDOW"
+  },
+  {
+    "name": "Arcane Fortune",
+    "shardName": "Hideonwall",
+    "id": "R79",
+    "skyBlockApiId": "SHARD_HIDEONWALL"
+  },
+  {
+    "name": "Underwater Tracker",
+    "shardName": "Nozzlenose",
+    "id": "R80",
+    "skyBlockApiId": "SHARD_NOZZLENOSE"
+  },
+  {
+    "name": "Refined Luck",
+    "shardName": "Stoneworm",
+    "id": "R81",
+    "skyBlockApiId": "SHARD_STONEWORM"
+  },
+  {
+    "name": "Foraging Tracker",
+    "shardName": "Fluffling",
+    "id": "R82",
+    "skyBlockApiId": "SHARD_FLUFFLING"
+  },
+  {
+    "name": "Torrhus Serendipity",
+    "shardName": "Stingray",
+    "id": "R83",
+    "skyBlockApiId": "SHARD_STINGRAY"
+  },
+  {
+    "name": "Mutation Serendipity",
+    "shardName": "Zombuddy",
+    "id": "R84",
+    "skyBlockApiId": "SHARD_ZOMBUDDY"
+  },
+  {
+    "name": "Forest Serendipity",
+    "shardName": "Puck",
+    "id": "R85",
+    "skyBlockApiId": "SHARD_PUCK"
+  },
+  {
+    "name": "Echo of Buckets",
+    "shardName": "Goldolot",
+    "id": "R86",
+    "skyBlockApiId": "SHARD_GOLDOLOT"
+  },
+  {
+    "name": "Essence of Fossils",
+    "shardName": "Troodon",
+    "id": "R86",
+    "skyBlockApiId": "SHARD_TROODON"
+  },
+  {
+    "name": "Atomized Whispers",
+    "shardName": "Pangolin",
+    "id": "R88",
+    "skyBlockApiId": "SHARD_PANGOLIN"
+  },
+  {
+    "name": "Aquatic Fortune",
+    "shardName": "Giant Water Bug",
+    "id": "R89",
+    "skyBlockApiId": "SHARD_GIANT_WATER_BUG"
+  },
+  {
+    "name": "Rekindle",
+    "shardName": "Murkbat",
+    "id": "R91",
+    "skyBlockApiId": "SHARD_MURKBAT"
+  },
+  {
+    "name": "Mythic Rabbit Luck",
+    "shardName": "Rabbit Neighbor",
+    "id": "R94",
+    "skyBlockApiId": "SHARD_RABBIT_NEIGHBOR"
+  },
+  {
+    "name": "First Sweep",
+    "shardName": "Torrid",
+    "id": "R95",
+    "skyBlockApiId": "SHARD_TORRID"
+  },
+  {
+    "name": "Axe Cooldown",
+    "shardName": "Drybark",
+    "id": "R97",
+    "skyBlockApiId": "SHARD_DRYBARK"
   },
   {
     "name": "Earth Elemental",
@@ -738,6 +1368,12 @@
     "skyBlockApiId": "SHARD_FENLORD"
   },
   {
+    "name": "Pickaxe Cooldown",
+    "shardName": "Abyssal Miner",
+    "id": "E8",
+    "skyBlockApiId": "SHARD_ABYSSAL_MINER"
+  },
+  {
     "name": "Hunter's Suppress",
     "shardName": "Basilisk",
     "id": "E9",
@@ -754,6 +1390,12 @@
     "shardName": "Moray Eel",
     "id": "E11",
     "skyBlockApiId": "SHARD_MORAY_EEL"
+  },
+  {
+    "name": "Special Upgrades",
+    "shardName": "Special Zealot",
+    "id": "E12",
+    "skyBlockApiId": "SHARD_SPECIAL_ZEALOT"
   },
   {
     "name": "Lunar Power",
@@ -786,10 +1428,16 @@
     "skyBlockApiId": "SHARD_WATER_HYDRA"
   },
   {
-    "name": "Blazing",
+    "name": "Infernal Ruler",
     "shardName": "Flare",
     "id": "E18",
     "skyBlockApiId": "SHARD_FLARE"
+  },
+  {
+    "name": "Sky High",
+    "shardName": "Murderwing",
+    "id": "E19",
+    "skyBlockApiId": "SHARD_MURDERWING"
   },
   {
     "name": "Sea Wisdom",
@@ -810,10 +1458,22 @@
     "skyBlockApiId": "SHARD_KOMODO_DRAGON"
   },
   {
+    "name": "Outstanding Fisher",
+    "shardName": "Blue Crab",
+    "id": "E23",
+    "skyBlockApiId": "SHARD_BLUE_CRAB"
+  },
+  {
     "name": "Faker",
     "shardName": "Mimic",
     "id": "E24",
     "skyBlockApiId": "SHARD_MIMIC"
+  },
+  {
+    "name": "Slayer Progress",
+    "shardName": "Wolverine",
+    "id": "E25",
+    "skyBlockApiId": "SHARD_WOLVERINE"
   },
   {
     "name": "Shell",
@@ -836,7 +1496,7 @@
   {
     "name": "Attack Speed",
     "shardName": "Inferno Demonlord",
-    "id": "E29",
+    "id": "E48",
     "skyBlockApiId": "SHARD_BURNINGSOUL"
   },
   {
@@ -894,16 +1554,94 @@
     "skyBlockApiId": "SHARD_SPHINX"
   },
   {
+    "name": "Dominance",
+    "shardName": "Thorn",
+    "id": "E57",
+    "skyBlockApiId": "SHARD_THORN"
+  },
+  {
     "name": "King of Greed",
     "shardName": "King Minos",
     "id": "E42",
     "skyBlockApiId": "SHARD_KING_MINOS"
   },
   {
+    "name": "Ghastly Distraction",
+    "shardName": "Dive Ghast",
+    "id": "E43",
+    "skyBlockApiId": "SHARD_DIVE_GHAST"
+  },
+  {
+    "name": "Forager's Fortune",
+    "shardName": "Silkbreeze",
+    "id": "E44",
+    "skyBlockApiId": "SHARD_SILKBREEZE"
+  },
+  {
     "name": "Freezing Spread",
     "shardName": "Littlefoot",
     "id": "E45",
     "skyBlockApiId": "SHARD_LITTLEFOOT"
+  },
+  {
+    "name": "Devouring Spread",
+    "shardName": "Gemzie",
+    "id": "E45",
+    "skyBlockApiId": "SHARD_GEMZIE"
+  },
+  {
+    "name": "Divine Rabbit Luck",
+    "shardName": "Rabbit Godmother",
+    "id": "E46",
+    "skyBlockApiId": "SHARD_RABBIT_GODMOTHER"
+  },
+  {
+    "name": "Fisher's Fortune",
+    "shardName": "Giant Isopod",
+    "id": "E47",
+    "skyBlockApiId": "SHARD_GIANT_ISOPOD"
+  },
+  {
+    "name": "Honey Refill",
+    "shardName": "Queen Bee",
+    "id": "E49",
+    "skyBlockApiId": "SHARD_QUEEN_BEE"
+  },
+  {
+    "name": "Catacombs Explorer",
+    "shardName": "Bonzo",
+    "id": "E51",
+    "skyBlockApiId": "SHARD_BONZO"
+  },
+  {
+    "name": "Lathering Greed",
+    "shardName": "Beeheemoth",
+    "id": "E52",
+    "skyBlockApiId": "SHARD_BEEHEEMOTH"
+  },
+  {
+    "name": "Catacombs Graduate",
+    "shardName": "Scarf",
+    "id": "E54",
+    "skyBlockApiId": "SHARD_SCARF"
+  },
+  {
+    "name": "Social Wisdom",
+    "shardName": "Mountain Goat",
+    "id": "E58",
+    "skyBlockApiId": "SHARD_MOUNTAIN_GOAT"
+  },
+  {
+    "name": "Glossy Fortune",
+    "shardName": "Scatha",
+    "id": "E60",
+    "skyBlockApiId": "SHARD_SCATHA"
+  },
+  {
+    "name": "Royal Riches",
+    "shardName": "Nilbog",
+    "id": "E63",
+    "skyBlockApiId": "SHARD_NILBOG"
   },
   {
     "name": "Shadow Elemental",
@@ -960,6 +1698,12 @@
     "skyBlockApiId": "SHARD_ENDSTONE_PROTECTOR"
   },
   {
+    "name": "Egg Finder",
+    "shardName": "Rabbit Godfather",
+    "id": "L10",
+    "skyBlockApiId": "SHARD_RABBIT_GODFATHER"
+  },
+  {
     "name": "Charmed",
     "shardName": "Naga",
     "id": "L11",
@@ -1006,6 +1750,18 @@
     "shardName": "Moltenfish",
     "id": "L20",
     "skyBlockApiId": "SHARD_MOLTENFISH"
+  },
+  {
+    "name": "Echo of Tracking",
+    "shardName": "Doomspiral",
+    "id": "L21",
+    "skyBlockApiId": "SHARD_DOOMSPIRAL"
+  },
+  {
+    "name": "Splendor",
+    "shardName": "Macaw",
+    "id": "L22",
+    "skyBlockApiId": "SHARD_MACAW"
   },
   {
     "name": "Help From Above",
@@ -1074,10 +1830,16 @@
     "skyBlockApiId": "SHARD_APEX_DRAGON"
   },
   {
-    "name": "Rare Bird",
+    "name": "Tracking",
     "shardName": "Dodo",
     "id": "L34",
     "skyBlockApiId": "SHARD_DODO"
+  },
+  {
+    "name": "Queenly Echo",
+    "shardName": "Queen Snake",
+    "id": "L35",
+    "skyBlockApiId": "SHARD_QUEEN_SNAKE"
   },
   {
     "name": "Unlimited Power",
@@ -1086,10 +1848,22 @@
     "skyBlockApiId": "SHARD_JORMUNG"
   },
   {
+    "name": "Treasure Fisher",
+    "shardName": "Ghost Crab",
+    "id": "L38",
+    "skyBlockApiId": "SHARD_GHOST_CRAB"
+  },
+  {
     "name": "Unlimited Energy",
     "shardName": "Etherdrake",
     "id": "L39",
     "skyBlockApiId": "SHARD_ETHERDRAKE"
+  },
+  {
+    "name": "Tough Claws",
+    "shardName": "Grizzly Bear",
+    "id": "L40",
+    "skyBlockApiId": "SHARD_GRIZZLY_BEAR"
   },
   {
     "name": "Ultimate DNA",
@@ -1098,7 +1872,7 @@
     "skyBlockApiId": "SHARD_GALAXY_FISH"
   },
   {
-    "name": "Almighty",
+    "name": "Almighty Echo",
     "shardName": "Molthorn",
     "id": "L42",
     "skyBlockApiId": "SHARD_MOLTHORN"
@@ -1110,27 +1884,45 @@
     "skyBlockApiId": "SHARD_STARBORN"
   },
   {
+    "name": "Cocoon Chance",
+    "shardName": "Primordial",
+    "id": "L45",
+    "skyBlockApiId": "SHARD_PRIMORDIAL"
+  },
+  {
     "name": "Groovy Radar",
     "shardName": "Cocoaleech",
     "id": "L46",
     "skyBlockApiId": "SHARD_COCOALEECH"
   },
   {
-    "name": "Bayou Biter",
+    "name": "Bayou Hook",
     "shardName": "Titanoboa",
     "id": "L47",
     "skyBlockApiId": "SHARD_TITANOBOA"
   },
   {
-    "name": "Dominance",
-    "shardName": "Thorn",
-    "id": "L48",
-    "skyBlockApiId": "SHARD_THORN"
+    "name": "Miracle Chance",
+    "shardName": "Rainbug",
+    "id": "L49",
+    "skyBlockApiId": "SHARD_RAINBUG"
   },
   {
-    "name": "Catacombs Graduate",
-    "shardName": "Scarf",
-    "id": "L51",
-    "skyBlockApiId": "SHARD_SCARF"
+    "name": "Slayer Discount",
+    "shardName": "Paragon",
+    "id": "L54",
+    "skyBlockApiId": "SHARD_PARAGON"
+  },
+  {
+    "name": "Greenhouse Speed",
+    "shardName": "Timestalk Clone",
+    "id": "L57",
+    "skyBlockApiId": "SHARD_TIMESTALK_CLONE"
+  },
+  {
+    "name": "Cold Resistance",
+    "shardName": "Wumpa",
+    "id": "L60",
+    "skyBlockApiId": "SHARD_WUMPA"
   }
 ]
