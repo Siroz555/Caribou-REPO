@@ -1,18 +1,18 @@
 {
   "version": "1.0.2",
-  "last_updated": "2026-05-18T08:47:29.763268+00:00Z",
+  "last_updated": "2026-09-02T09:26:02.088449+00:00Z",
   "files": {
-    "data/attributes.json": {
-      "hash": "f5c5f683e76ccfb2fc92842a4059eb1db7b99fc1ab854d814e91acc46cf07575",
-      "size": 23073
+    "data/enchantments.json": {
+      "hash": "79b5014ecb2eb82656917012cc06e7cdaebc622a5880727e886f563f5f02ecfa",
+      "size": 10869
     },
     "data/items_mapping.json": {
       "hash": "038dc666f90ee361764409258f02921afad4c6b982aeae9b9c493b0554a48f14",
       "size": 13374
     },
-    "data/enchantments.json": {
-      "hash": "79b5014ecb2eb82656917012cc06e7cdaebc622a5880727e886f563f5f02ecfa",
-      "size": 10869
+    "data/attributes.json": {
+      "hash": "dcf7e27f897d28b509e741d4e3fc49114543d27aea8a726f425ceaad53af4e51",
+      "size": 39616
     },
     "data/reforges.json": {
       "hash": "f6bc582088aa3281cee2ce6074482250644844dd3f732bba2aa11a518c2105cd",
