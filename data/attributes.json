@@ -282,6 +282,12 @@
     "skyBlockApiId": "SHARD_BRINELING"
   },
   {
+    "name": "Rabbit Youth",
+    "shardName": "Chocobun",
+    "id": "C48",
+    "skyBlockApiId": "SHARD_CHOCOBUN"
+  },
+  {
     "name": "Foraging Speed",
     "shardName": "Foxtrot",
     "id": "C49",
@@ -1848,7 +1854,7 @@
     "skyBlockApiId": "SHARD_SHRIEKY_TIKI"
   },
   {
-    "name": "Forest Felling",
+    "name": "Helix Timber",
     "shardName": "Woodpecker",
     "id": "U76",
     "skyBlockApiId": "SHARD_WOODPECKER"
