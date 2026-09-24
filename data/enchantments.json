@@ -211,7 +211,8 @@
   {
     "id": "forest_pledge",
     "name": "Forest Pledge",
-    "maxLevel": 5
+    "maxLevel": 6,
+    "goodLevel": 5
   },
   {
     "id": "fortune",
@@ -285,6 +286,12 @@
     "goodLevel": 6
   },
   {
+    "id": "karma",
+    "name": "Karma",
+    "maxLevel": 6,
+    "goodLevel": 5
+  },
+  {
     "id": "knockback",
     "name": "Knockback",
     "maxLevel": 2
@@ -320,8 +327,8 @@
   {
     "id": "luck_of_the_sea",
     "name": "Luck of the Sea",
-    "maxLevel": 6,
-    "goodLevel": 5
+    "maxLevel": 7,
+    "goodLevel": 6
   },
   {
     "id": "lure",
@@ -362,6 +369,11 @@
     "maxLevel": 5
   },
   {
+    "id": "petalfall",
+    "name": "Petalfall",
+    "maxLevel": 5
+  },
+  {
     "id": "pesterminator",
     "name": "Pesterminator",
     "maxLevel": 5
@@ -374,8 +386,8 @@
   {
     "id": "piscary",
     "name": "Piscary",
-    "maxLevel": 6,
-    "goodLevel": 5
+    "maxLevel": 7,
+    "goodLevel": 6
   },
   {
     "id": "power",
