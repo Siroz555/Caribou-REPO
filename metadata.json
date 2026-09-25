@@ -1,10 +1,10 @@
 {
   "version": "1.0.2",
-  "last_updated": "2026-09-25T10:25:07.499066+00:00Z",
+  "last_updated": "2026-09-25T10:26:37.922063+00:00Z",
   "files": {
     "data/reforges.json": {
-      "hash": "6f5d6e951c5f0e700a473ed034085afabf1deed0d66813805484c525338d0898",
-      "size": 5675
+      "hash": "e0cc8c19a22a87f6b2135b54069b6d9e5e213b76e4d6d7bdafce2d83e62cd7e3",
+      "size": 5737
     },
     "data/attributes.json": {
       "hash": "dcf7e27f897d28b509e741d4e3fc49114543d27aea8a726f425ceaad53af4e51",
