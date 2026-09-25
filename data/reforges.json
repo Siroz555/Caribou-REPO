@@ -152,6 +152,10 @@
     "skyBlockApiId": "ENDSTONE_GEODE"
   },
   {
+    "name": "sunny",
+    "skyBlockApiId": "SUNSTONE"
+  },
+  {
     "name": "blazing",
     "skyBlockApiId": "BLAZEN_SPHERE"
   },
