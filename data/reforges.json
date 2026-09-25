@@ -200,6 +200,10 @@
     "skyBlockApiId": "BLAZE_WAX"
   },
   {
+    "name": "lunar",
+    "skyBlockApiId": "MOONSTONE"
+  },
+  {
     "name": "chomp",
     "skyBlockApiId": "KUUDRA_MANDIBLE"
   },
@@ -292,11 +296,35 @@
     "skyBlockApiId": "BLESSED_FRUIT"
   },
   {
+    "name": "deep_fried",
+    "skyBlockApiId": "HASHBROWN"
+  },
+  {
+    "name": "overpriced",
+    "skyBlockApiId": "OVERPRICED_DRINK"
+  },
+  {
     "name": "beady",
     "skyBlockApiId": "BEADY_EYES"
   },
   {
     "name": "buzzing",
     "skyBlockApiId": "CLIPPED_WINGS"
+  },
+  {
+    "name": "erudite",
+    "skyBlockApiId": "DAEDALUS_NOTES"
+  },
+  {
+    "name": "geometric",
+    "skyBlockApiId": "GEOMETRIC_ODDITY"
+  },
+  {
+    "name": "sticky",
+    "skyBlockApiId": "EXTREMELY_MILD_ADHESIVE"
+  },
+  {
+    "name": "majestic",
+    "skyBlockApiId": "MORNING_DEW"
   }
 ]
