@@ -912,6 +912,12 @@
     "skyBlockApiId": "SHARD_TITANOBOA"
   },
   {
+    "name": "Unique Bonus",
+    "shardName": "Flora",
+    "id": "L52",
+    "skyBlockApiId": "SHARD_FLORA"
+  },
+  {
     "name": "Slayer Discount",
     "shardName": "Paragon",
     "id": "L54",
