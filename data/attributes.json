@@ -1074,6 +1074,12 @@
     "skyBlockApiId": "SHARD_REVENANT"
   },
   {
+    "name": "Catacombs Cap",
+    "shardName": "Folf",
+    "id": "R28",
+    "skyBlockApiId": "SHARD_FOLF"
+  },
+  {
     "name": "Crystal Serendipity",
     "shardName": "Silentdepth",
     "id": "R29",
