@@ -1860,6 +1860,12 @@
     "skyBlockApiId": "SHARD_SNEAKY_TIKI"
   },
   {
+    "name": "Fiesta Fortune",
+    "shardName": "Packrat",
+    "id": "U73",
+    "skyBlockApiId": "SHARD_PACKRAT_SKULL"
+  },
+  {
     "name": "Construct Ruler",
     "shardName": "Shrieky Tiki",
     "id": "U75",
