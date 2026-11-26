@@ -315,8 +315,14 @@
   {
     "id": "looting",
     "name": "Looting",
-    "maxLevel": 5,
-    "goodLevel": 4
+    "maxLevel": 7,
+    "goodLevel": 6
+  },
+  {
+    "id": "looting_new",
+    "name": "Looting",
+    "maxLevel": 7,
+    "goodLevel": 6
   },
   {
     "id": "luck",
