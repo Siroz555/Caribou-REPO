@@ -912,6 +912,12 @@
     "skyBlockApiId": "SHARD_TITANOBOA"
   },
   {
+    "name": "Unique Bonus",
+    "shardName": "Flora",
+    "id": "L52",
+    "skyBlockApiId": "SHARD_FLORA"
+  },
+  {
     "name": "Slayer Discount",
     "shardName": "Paragon",
     "id": "L54",
@@ -1066,6 +1072,12 @@
     "shardName": "Revenant",
     "id": "R27",
     "skyBlockApiId": "SHARD_REVENANT"
+  },
+  {
+    "name": "Catacombs Cap",
+    "shardName": "Folf",
+    "id": "R28",
+    "skyBlockApiId": "SHARD_FOLF"
   },
   {
     "name": "Crystal Serendipity",
@@ -1846,6 +1858,12 @@
     "shardName": "Sneaky Tiki",
     "id": "U72",
     "skyBlockApiId": "SHARD_SNEAKY_TIKI"
+  },
+  {
+    "name": "Fiesta Fortune",
+    "shardName": "Packrat",
+    "id": "U73",
+    "skyBlockApiId": "SHARD_PACKRAT_SKULL"
   },
   {
     "name": "Construct Ruler",
